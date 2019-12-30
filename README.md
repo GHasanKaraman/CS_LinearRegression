@@ -2,4 +2,4 @@
 Basic Linear Regression
 
 IEEE Gazi Computer Society
-Introduction to Artificial Intelligent and Machine Learning
+Introduction to Artificial Intelligence and Machine Learning
